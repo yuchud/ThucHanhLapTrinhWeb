@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the npm íntall:
+First, run the npm install:
 
 ```bash
 npm install
