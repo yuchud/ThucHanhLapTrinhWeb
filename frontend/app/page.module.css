@@ -112,6 +112,24 @@ a.secondary {
   flex-shrink: 0;
 }
 
+/* set table on the left of the page */
+
+.table {
+  display: flex;
+  flex-direction: column;
+  padding: 0 16px;
+  max-width: 600px;
+}
+
+/* set space between table cells */
+.table td {
+  padding: 8px 16px;
+}
+
+.table th {
+  padding: 8px 16px;
+}
+
 /* Enable hover only on non-touch devices */
 @media (hover: hover) and (pointer: fine) {
   a.primary:hover {

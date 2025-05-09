@@ -1,0 +1,1 @@
+const apiAdress = 'http://localhost:8081';
